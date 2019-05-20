@@ -14,7 +14,7 @@ class App extends Component {
 
 
     componentDidMount(){
-        this.onTermSubmit("Rick Astley")
+        this.onTermSubmit("JavaScript tutorial")
     }
 
     onTermSubmit = async (searchTerm) => {
